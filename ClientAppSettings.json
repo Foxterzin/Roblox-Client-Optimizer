@@ -44,7 +44,7 @@
 "DFIntGamePassOwnershipCacheSeconds": 60,
 "DFIntPlayerSubscriptionCacheIntervalSeconds": 60,
 "FIntTaskSchedulerAutoThreadLimit": 16,
-"DFIntTaskSchedulerTargetFps": 500,
+"DFIntTaskSchedulerTargetFps": 1000,
 "FIntSSAOMipLevels": 0,
 "DFIntMaxActiveAnimationTracks": 512,
 "DFIntJoinDataCompressionLevel": 8,
